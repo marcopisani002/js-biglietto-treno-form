@@ -11,3 +11,9 @@
 .bder{
     border-radius:5px;
 }
+.bder-qr{
+    border: 5px solid rgb(255, 196, 0);
+}
+.bder-qr1{
+    border-bottom: 1px solid rgb(9, 231, 76) ;
+}
