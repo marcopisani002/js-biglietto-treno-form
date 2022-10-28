@@ -1,6 +1,17 @@
 .bck-body{
     background-color: #B91450;
 }
+.fixd
+{
+    position: fixed;
+    top: 0%;
+    z-index: 1;
+    right: 0%;
+    left: 0%;
+}
+.bg-hdr{
+    background-color: #A6160A;
+}
 .clr-main{
    color: #B91450;
 }
