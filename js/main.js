@@ -54,6 +54,8 @@ mainBtn.addEventListener("click", function () {
     }
 
     console.log("hai cliccato qui");
-})
+
+}
+)
 
 
