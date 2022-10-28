@@ -2,6 +2,7 @@
 // input BOTTONI
 const mainBtn = document.getElementById("main-btn");
 console.log("Tipologia:", typeof mainBtn);
+const parEl = document.querySelector( "btn" );
 
 mainBtn.addEventListener("click", function () {
     // input NOME E COGNOME
